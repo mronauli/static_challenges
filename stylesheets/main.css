@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<style>
+a {
+  color: #FFF;
+}
+a:hover {
+  color: #00F
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#primary-header {
+  background-color: darkred;
+  padding: 5px;
+  text-align: left;
+  color: white;
+}
+
+button {
+  background-color: Transparent;
+  position: relative;
+  bottom: -5px;
+  right: -376px;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+
+h1 {
+  margin: 0;
+  display: inline-block;
+}
+
+#secondary-header {
+  background-color: #777;
+  padding: 5px;
+  text-align: right;
+  color: white;
+}
+
+nav {
+  float: right;
+  width: 30%;
+  height: 500px;
+  background-color: #fff;
+  padding: 20px;
+}
+
+article {
+  float: right;
+  padding: 20px;
+  width: 70%;
+  background-color: #fff;
+  height: 500px;
+}
+
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: left;
+  color: white;
+  position: fixed;
+  bottom: 0;
+}
+</style>
+</html>
